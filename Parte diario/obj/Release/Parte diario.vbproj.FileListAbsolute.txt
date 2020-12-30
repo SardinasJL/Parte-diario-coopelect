@@ -1,0 +1,11 @@
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\bin\Release\Parte diario.exe
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\bin\Release\Parte diario.pdb
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\bin\Release\Parte diario.xml
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\ResolveAssemblyReference.cache
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte_diario.frmAutenticación.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte_diario.frmInicio.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte_diario.Resources.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte diario.vbproj.GenerateResource.Cache
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte diario.exe
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte diario.xml
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Release\Parte diario.pdb

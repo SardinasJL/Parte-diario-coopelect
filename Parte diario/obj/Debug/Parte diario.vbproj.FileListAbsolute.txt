@@ -1,0 +1,19 @@
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\bin\Debug\Parte diario.exe
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\bin\Debug\Parte diario.pdb
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\bin\Debug\Parte diario.xml
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.Resources.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte diario.vbproj.GenerateResource.Cache
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte diario.exe
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte diario.xml
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte diario.pdb
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmAutenticación.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmInicio.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmActividades.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmActividades_edita.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmProgramacion_editar.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmProgramacion_generar_reporte.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmProgramacion.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmEjecucion.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmEjecucion_editar.resources
+D:\PROGRAMAS\Planillas_Salariales_COOPE\Parte diario\Parte diario\obj\Debug\Parte_diario.frmEjecucion_generar_reporte.resources
